@@ -34,8 +34,6 @@ text
 
 len(text)
 
-text=text[:100000]
-
 """STEP-2:Formation of character sequence."""
 
 #Character sequence formation.
