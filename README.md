@@ -17,3 +17,6 @@ The repos in this master repo are:
 3)[Machine Translation](https://github.com/sugithsusubros/Natural-Language-Processing/tree/master/Machine%20Translation)
 
 4)[Text Summarization](https://github.com/sugithsusubros/Natural-Language-Processing/tree/master/Text%20Summarization)
+
+Other major applications code will be posted in time being.
+
