@@ -1,10 +1,10 @@
 # Natural Language Processing
 
-This is a master repo for NLP.
+This is a master repo for Natural Language Processing.
 
-Im a Data Analyst and Natural Language Processing Enthusiastic.
+Natual Language Processing is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language. 
 
-Ready to have more fun in this magical field.
+This master repo has been created in a motive to settle all the codes of NLP's major applications in a sigle repo, which would be a source for codes of baseline models till the state-of-art model for the newbees to this field.
 
 <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2019%2F06%2F5-Amazing-Examples-Of-Natural-Language-Processing-NLP-In-Practice-1200x639.jpg" >
 
