@@ -10,7 +10,7 @@ The repos in this master repo are:
 
 1)Text Classification.
 
-2)Language Modeling.
+2)Language Modeling.- https://github.com/sugithsusubros/Natural-Language-Processing/tree/master/Language%20Modeling/Language%20modelling%20with%20RNN%2C%20LSTM%20and%20GRU
 
 3)Named Endity Regocnition.
 
