@@ -6,6 +6,8 @@ Natual Language Processing is a branch of artificial intelligence that deals wit
 
 This master repo has been created in a motive to settle all the codes of NLP's major applications in a sigle repo, which would be a source for codes of baseline models till the state-of-art model for the newbees to this field.
 
+The intention of this repo is majorly towards hepling the begginers in this field.Even if a single person is benifited the author would be happy and satisfied.
+
 <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fbernardmarr%2Ffiles%2F2019%2F06%2F5-Amazing-Examples-Of-Natural-Language-Processing-NLP-In-Practice-1200x639.jpg" >
 
 The repos in this master repo are:
